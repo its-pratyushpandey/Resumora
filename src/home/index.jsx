@@ -80,6 +80,7 @@ function Home() {
 
         <h2 className="mt-4 text-xl font-bold text-black">Write promot for your form</h2>
 
+        
         <p className="mt-1 text-sm text-gray-600">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
           distinctio alias voluptatum blanditiis laudantium.
@@ -123,6 +124,7 @@ function Home() {
         className="inline-block rounded bg-pink-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-pink-700 focus:outline-none focus:ring focus:ring-yellow-400"
       >
         Get Started Today
+        
       </a>
     </div>
     </section>
