@@ -7,6 +7,7 @@ import { useParams } from 'react-router-dom'
 import GlobalApi from './../../../../service/GlobalApi'
 import { RWebShare } from 'react-web-share'
 
+
 function ViewResume() {
 
     const [resumeInfo,setResumeInfo]=useState();
