@@ -4,6 +4,7 @@ import { AtomIcon, Edit, Share2 } from 'lucide-react'
 import React from 'react'
 function Home() { 
   return (
+    
     <div>
       <Header/>
       <div>
