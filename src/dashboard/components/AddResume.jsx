@@ -15,8 +15,6 @@ import GlobalApi from './../../../service/GlobalApi'
 import { useUser } from '@clerk/clerk-react'
 import { Navigate, useNavigate } from 'react-router-dom'
 
-
-
 function AddResume() {
 
     const [openDialog,setOpenDialog]=useState(false)
